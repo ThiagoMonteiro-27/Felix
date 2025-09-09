@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    border: 0;
+    
+}
+.card.main {
+    margin: 50px;
+    border: 2px solid purple ; 
+    padding-top:  120px; ;
+    padding-bottom: 120px ;
+    padding-left: 340px ;
+    padding-right: 340px ;
+
+
+}
